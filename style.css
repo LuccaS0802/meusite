@@ -1,0 +1,45 @@
+*{
+    margin: 0%;
+    padding: 0%;
+    box-sizing: border-box;
+}
+
+header{
+    height: 60%;
+    background-color: rgb(157, 62, 62);
+}
+ nav{
+        height: 60px;
+        background-color:  rgb(157, 62, 62);
+     }
+
+   .div_imagem1,.div_imagem2,.div_imagem3{
+    height: 480px;
+    background-color: rgb(157, 62, 62);;
+   }
+   .div_texto{
+    height: 280px;
+    background-color: rgb(157, 62, 62);;
+   }
+
+   .div_imagem1{
+    background-image: url(image/uma-biblioteca-com-muitos-livros-nas-prateleiras_684218-152.avif);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+   }
+   .div_imagem2{
+    background-image: url(image/uma-biblioteca-com-livros-nas-prateleiras-e-uma-escada-em-caracol_883586-2719.avif) ;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+  }
+   .div_imagem3{
+    background-image: url(image/uma-biblioteca-com-muitos-livros-nas-prateleiras_899870-11793.avif);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+}
